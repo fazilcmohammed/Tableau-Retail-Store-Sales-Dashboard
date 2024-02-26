@@ -1,4 +1,4 @@
 # Retail Store Dashboard
 The Retail Store Sales Data Exploration and Dashboard project, aiming to provide a comprehensive analysis and visualization platform for understanding the business performance. The project utilized Excel data exploration techniques to extract insights and develop a Tableau dashboard. By offering stakeholders a user-friendly interface to explore key metrics such as regions generating highest and lowest revenue, monthly trend of revenue, and top customers and how much do they contribute to the total revenue,etc. The project aimed to empower informed decision-making and the major contributing factors are to the revenue so they can strategically plan for next year.
-# Project Overview
+## Project Overview
 This document serves as documentation for the Retail Store Sale data exploration and dashboard project, which aimed to analyze and visualize sales related data. The project involved data exploration, data cleaning, data manipuation and the development of a comprehensive dashboard using Tableau.
