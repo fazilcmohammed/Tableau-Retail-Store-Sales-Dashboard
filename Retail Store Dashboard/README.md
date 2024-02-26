@@ -1,5 +1,7 @@
 # Retail Store Dashboard
 The Retail Store Sales Data Exploration and Dashboard project, aiming to provide a comprehensive analysis and visualization platform for understanding the business performance. The project utilized Excel data exploration techniques to extract insights and develop a Tableau dashboard. By offering stakeholders a user-friendly interface to explore key metrics such as regions generating highest and lowest revenue, monthly trend of revenue, and top customers and how much do they contribute to the total revenue,etc. The project aimed to empower informed decision-making and the major contributing factors are to the revenue so they can strategically plan for next year.
+
+Access the live dashboard on Tableau Public: [Retail Store Dashboard](https://public.tableau.com/app/profile/mohammed.fazil.c/viz/RetailStoreSalesDashboard_17085384301970/Dashboard2?publish=yes)
 ## Project Overview
 This document serves as documentation for the Retail Store Sale data exploration and dashboard project, which aimed to analyze and visualize sales related data. The project involved data exploration, data cleaning, data manipuation and the development of a comprehensive dashboard using Tableau.
 ### Project Scope
@@ -19,4 +21,4 @@ The Retail Store Sales dataset includes information on stock code, description, 
   - Date and time was there in a single cell and then splitted into two separate columns with the help of Text to Column feature in Excel.
   - A new field named Sales added to the dataset and filled with values by multiplying the UnitPriceand Quantity columns.
 ### Tableau Dashboard
-#### Access the live dashboard on Tableau Public:
+#### Access the live dashboard on Tableau Public: [Retail Store Dashboard](https://public.tableau.com/app/profile/mohammed.fazil.c/viz/RetailStoreSalesDashboard_17085384301970/Dashboard2?publish=yes)
