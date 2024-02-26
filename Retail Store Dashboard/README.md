@@ -22,3 +22,18 @@ The Retail Store Sales dataset includes information on stock code, description, 
   - A new field named Sales added to the dataset and filled with values by multiplying the UnitPriceand Quantity columns.
 ### Tableau Dashboard
 #### Access the live dashboard on Tableau Public: [Retail Store Dashboard](https://public.tableau.com/app/profile/mohammed.fazil.c/viz/RetailStoreSalesDashboard_17085384301970/Dashboard2?publish=yes)
+The Tableau dashboard was designed to visualize key insights and trends related to store sales, including monthly revenue, top countries, top 10 customers, and best regions. The dashboard includes KPIs, line graphs, column charts, side by side charts, and map chart to provide a comprehensive overview of the sales.
+### Dashboard Components:
+* Key Performance Indicators (KPIs):
+   - Total Units Sold
+   - Total Sales
+   - Number of Customers
+* Line Graph:
+   - Revenue per Month
+* Column Chart:
+   - Top 10 Customers
+* Side by Side Chart:
+   - Top 10 Countries by Revenue & Units Sold
+* Map Chart:
+   - Units Sold by Country
+### Project Conclusion
